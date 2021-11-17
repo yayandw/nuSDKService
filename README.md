@@ -1,1 +1,1 @@
-# qmeralite
+# nuSDKService
